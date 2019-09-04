@@ -1,6 +1,6 @@
 {
   "name": "koa-spa-server",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "单页应用服务器，静态资源及Api代理访问",
   "main": "lib/index.js",
   "directories": {
